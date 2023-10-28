@@ -1,0 +1,18 @@
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 22px;
+}
+
+body{
+    background-size: cover;
+}
+
+p{
+    color: black;
+    font-size: 12px;
+}
+
+input{
+    width: 25%;
+}
